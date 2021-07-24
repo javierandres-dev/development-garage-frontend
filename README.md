@@ -1,2 +1,2 @@
-# development-school-frontend
-School Frontend
+# development-garage-frontend
+Garage Frontend
